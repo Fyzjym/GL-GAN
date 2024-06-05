@@ -5,12 +5,12 @@ This code repository is the official implementation of the paper "GL-GAN: Learni
 
 # Model
 
-![Model](https://github.com/Fyzjym/DCC/blob/main/file/model_arch2.png)
+![Model](https://github.com/Fyzjym/GL-GAN/blob/master/pic/01_net.png)
 
 
 # Result
 
-![Result](https://github.com/Fyzjym/DCC/blob/main/file/show_lines_new.png)
+![Result](https://github.com/Fyzjym/GL-GAN/blob/master/pic/anay.png)
 
 # Pre-trained models
 
