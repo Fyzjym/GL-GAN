@@ -5,7 +5,7 @@ This code repository is the official implementation of the paper "GL-GAN: Percei
 
 # Model
 
-![Model](https://github.com/Fyzjym/GL-GAN/blob/master/pic/01_net.png)
+![Model](https://github.com/Fyzjym/GL-GAN/blob/master/pic/01_net2.png)
 
 
 # Result
