@@ -1,5 +1,5 @@
 # Description
-This code repository is the official implementation of the paper "GL-GAN: Learning Both Global and Local Styles for Handwritten Text Generation with Mamba".
+This code repository is the official implementation of the paper "GL-GAN: Perceiving and Integrating Global and Local Styles for Handwritten Text Generation with Mamba".
 
 
 
