@@ -12,9 +12,6 @@ This code repository is the official implementation of the paper "GL-GAN: Percei
 
 ![Result](https://github.com/Fyzjym/GL-GAN/blob/master/pic/anay.png)
 
-# Pre-trained models
-
-The latest SOTA model will be released after the paper is received.
 
 # Evaluation metrics
 FID：
