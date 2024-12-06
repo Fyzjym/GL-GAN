@@ -1,3 +1,11 @@
+# News!
+This essay has been accepted!
+
+If you have any questions, please contact wym_datas@163.com.
+
+Looking forward to any friendly exchanges.
+
+
 # Description
 This code repository is the official implementation of the paper "GL-GAN: Perceiving and Integrating Global and Local Styles for Handwritten Text Generation with Mamba".
 
